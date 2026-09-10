@@ -1,0 +1,502 @@
+[
+  {
+    "id": "hw_001",
+    "customer_message": "My iPhone 7 battery percentage drops from 80% to 15% in just twenty minutes, and the back of the phone gets scorching hot.",
+    "reference_reply": "We want to ensure your device operates safely. Please discontinue heavy use while hot and DM us to schedule a hardware diagnostic at your nearest Apple Store.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_002",
+    "customer_message": "I dropped my iPhone on the pavement and now the screen is completely shattered with black ink bleeding across the OLED panel.",
+    "reference_reply": "Ouch! We can definitely help get your screen repaired. Please DM us your zip code so we can find an Apple Store or Authorized Service Provider with available appointments.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_003",
+    "customer_message": "My lightning cable only charges my phone when I hold the cable at a weird 45-degree angle. Is my charging port broken?",
+    "reference_reply": "We'd recommend inspecting the charging port with a flashlight for any pocket lint. Check out these troubleshooting steps first: https://support.apple.com/HT201569",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_004",
+    "customer_message": "The top earpiece speaker on my iPhone 11 sounds like muffled static whenever someone calls me.",
+    "reference_reply": "Let's check your audio settings and ensure the receiver mesh is clear of debris. Follow these steps: https://support.apple.com/HT203794",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_005",
+    "customer_message": "My iPad screen is physically bulging outward and popping out of the aluminum chassis!",
+    "reference_reply": "Please stop using and unplug the iPad immediately for your safety. DM us your contact number so our senior safety team can reach out right away.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_006",
+    "customer_message": "The volume down button on my iPhone 8 is completely stuck and won't click anymore.",
+    "reference_reply": "We can help you arrange an inspection for that physical button. DM us to look into your repair options.",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_007",
+    "customer_message": "Water splashed on my iPhone SE and now the camera lens has visible condensation droplets inside the glass.",
+    "reference_reply": "Liquid inside the camera housing needs a hardware evaluation. Please power down the device and DM us to set up a service appointment.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_008",
+    "customer_message": "How do I check what percentage my iPhone maximum battery capacity is currently at?",
+    "reference_reply": "You can check this easily by going to Settings > Battery > Battery Health & Charging. Details here: https://support.apple.com/HT208387",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_009",
+    "customer_message": "My Face ID suddenly says 'A problem was detected with the TrueDepth Camera' and stopped working.",
+    "reference_reply": "When Face ID detects a TrueDepth sensor alert, a hardware diagnostic is necessary. DM us to review authorized service options.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_010",
+    "customer_message": "My MacBook Pro trackpad won't click physically anymore, it feels rock hard.",
+    "reference_reply": "We'd like to check your MacBook immediately. Please DM us your serial number and city to schedule a service inspection.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_011",
+    "customer_message": "The left AirPod won't connect or charge even after cleaning the charging case pins with isopropyl alcohol.",
+    "reference_reply": "Let's help you explore replacement options for that left AirPod. Send us a DM and we'll check your warranty status.",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_012",
+    "customer_message": "There is a permanent bright vertical green line running down the entire right side of my iPhone X display.",
+    "reference_reply": "A persistent line on the display indicates an internal screen issue. DM us your location so we can help arrange a repair reservation.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_013",
+    "customer_message": "My iPhone says 'No SIM' even though my Verizon nano-SIM is firmly inserted in the tray.",
+    "reference_reply": "Let's get that SIM recognized. Try removing and reseating the SIM, and check these steps: https://support.apple.com/HT201420",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_014",
+    "customer_message": "Does Apple replace batteries on older iPhone 6s models in store?",
+    "reference_reply": "Yes! Apple Stores and Authorized Service Providers still offer battery replacements for eligible models. Details: https://support.apple.com/iphone/repair/battery-replacement",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_015",
+    "customer_message": "The rear camera on my iPhone 12 shakes uncontrollably and buzzes like a bumblebee when taking photos.",
+    "reference_reply": "That shaking sound points to the optical stabilization sensor. Please DM us your serial number to book a repair.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_016",
+    "customer_message": "My Apple Watch Series 6 back sensor glass cracked while putting it on the magnetic charger.",
+    "reference_reply": "We want to make sure you stay safe and get that repaired. DM us to review your AppleCare+ coverage and service options.",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_017",
+    "customer_message": "Is wireless charging supported on the standard iPhone 8?",
+    "reference_reply": "Yes, iPhone 8 supports Qi-certified wireless charging pads. More info here: https://support.apple.com/HT208078",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_018",
+    "customer_message": "My Mac keyboard spacebar is stuck and typing double spaces on every keystroke.",
+    "reference_reply": "We can help with recurring spacebar inputs. Please DM us your Mac model so we can check eligibility for keyboard service.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_019",
+    "customer_message": "Can I use an Apple 20W USB-C power adapter with my older iPad mini 4?",
+    "reference_reply": "Yes, you can safely use the 20W USB-C adapter with an appropriate Lightning cable. See details: https://support.apple.com/HT202105",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_020",
+    "customer_message": "My iPhone vibrates violently for 3 seconds then completely shuts down.",
+    "reference_reply": "This behavior requires an in-depth hardware diagnostic. Please DM us your device model and iOS version.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_021",
+    "customer_message": "How do I safely clean dust out of my iPhone speaker grilles?",
+    "reference_reply": "Use a soft, clean, dry small-bristled brush to gently remove debris. Detailed cleaning instructions: https://support.apple.com/HT207123",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_022",
+    "customer_message": "My iPhone screen has a bright yellow tint across the entire display compared to my wife's phone.",
+    "reference_reply": "Check if True Tone or Night Shift is enabled in Settings > Display & Brightness. Here is how: https://support.apple.com/HT207570",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_023",
+    "customer_message": "The mute toggle slider on the side of my iPhone fell off completely.",
+    "reference_reply": "We can help you arrange an appointment to replace or repair that switch. DM us to get started.",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_024",
+    "customer_message": "My iPad headphone jack has the broken metal tip of an AUX cable stuck deep inside it.",
+    "reference_reply": "We strongly advise having an Apple technician extract lodged audio pins to avoid port damage. DM us to set up a visit.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_025",
+    "customer_message": "Does water damage get covered under standard one-year Apple limited warranty?",
+    "reference_reply": "Liquid damage is not covered under the Apple One-Year Limited Warranty, but is covered under AppleCare+. More info: https://support.apple.com/HT204104",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_026",
+    "customer_message": "My MacBook MagSafe charger light remains solid dark green and won't turn amber to charge.",
+    "reference_reply": "Try resetting the SMC on your Mac and checking the magnetic pins. Follow this guide: https://support.apple.com/HT201295",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_027",
+    "customer_message": "Both internal fans on my 16-inch MacBook Pro sound like a jet engine even with zero apps running.",
+    "reference_reply": "Check Activity Monitor for high CPU processes like Spotlight indexing, and reset the SMC: https://support.apple.com/HT202179",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_028",
+    "customer_message": "My iPhone microphone doesn't pick up my voice during regular cell calls, only on speakerphone.",
+    "reference_reply": "Test your primary microphone using the Voice Memos app. Here are full troubleshooting steps: https://support.apple.com/HT203792",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_029",
+    "customer_message": "I smell an electrical burning smell coming from the ventilation exhaust of my iMac.",
+    "reference_reply": "Please power off and unplug the iMac immediately from the wall outlet. DM us right away with your phone number.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_030",
+    "customer_message": "The haptic Taptic Engine on my iPhone 13 makes an ungodly loud mechanical buzzing sound instead of a soft tap.",
+    "reference_reply": "A loud buzz from the Taptic Engine indicates loose mounting or hardware failure. DM us to set up service.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_031",
+    "customer_message": "Can I replace the battery in my Magic Mouse 2?",
+    "reference_reply": "Magic Mouse 2 features a built-in rechargeable battery and cannot be user-replaced. Charge via Lightning: https://support.apple.com/HT205364",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_032",
+    "customer_message": "My iPhone screen turns unresponsive to touch randomly in the middle third of the screen.",
+    "reference_reply": "A dead zone on the digitizer requires an inspection. Send us a DM so we can verify warranty and book a diagnostic.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_033",
+    "customer_message": "Is the back glass on an iPhone 12 replaceable separately from the whole unit?",
+    "reference_reply": "Depending on the exact model and technician diagnostic, rear system repairs may be available. Review repair pricing here: https://support.apple.com/iphone/repair",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "hw_034",
+    "customer_message": "My AirPods Pro case hinge is completely loose and wobbly, feels like it's snapping off.",
+    "reference_reply": "We can help look into case replacement options. DM us your serial number to review coverage.",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "hw_035",
+    "customer_message": "Why does my iPhone battery health show 94% after 6 months of use?",
+    "reference_reply": "Battery capacity naturally degrades with chemical aging. A drop to 94% over 6 months is completely normal! Learn more: https://support.apple.com/HT208387",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_001",
+    "customer_message": "Ever since updating to iOS 17.2, my Messages app crashes instantly every single time I tap on a group chat.",
+    "reference_reply": "We'd like to help fix that crash. Try force closing Messages and performing a force restart: https://support.apple.com/HT201559",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_002",
+    "customer_message": "My iPhone is stuck in a boot loop showing the white Apple logo flashing on and off endlessly after an interrupted software update.",
+    "reference_reply": "Let's get your phone back up and running using Recovery Mode with a computer: https://support.apple.com/HT201263",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_003",
+    "customer_message": "I cannot update to iOS 16 because it says 'Unable to Verify Update - An error occurred verifying iOS 16'.",
+    "reference_reply": "Try deleting the downloaded update file in Settings > General > iPhone Storage, then re-download it over a stable Wi-Fi network: https://support.apple.com/HT201435",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_004",
+    "customer_message": "The keyboard typing sounds are blaring at 100% volume even when my ringer volume is set to minimum.",
+    "reference_reply": "You can toggle Keyboard Clicks off and on in Settings > Sounds & Haptics, followed by a quick restart: https://support.apple.com/HT208248",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "sw_005",
+    "customer_message": "After updating my MacBook to macOS Sonoma, my Wi-Fi disconnects every 5 minutes and drops IP address.",
+    "reference_reply": "Let's test removing your known Wi-Fi network and renewing the DHCP lease in Network Settings: https://support.apple.com/HT202222",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_006",
+    "customer_message": "My iPad screen is completely frozen on the home screen and won't respond to any swipes or button presses.",
+    "reference_reply": "A forced restart will usually resolve this freeze immediately. Follow these steps: https://support.apple.com/HT210631",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_007",
+    "customer_message": "Bluetooth toggle is greyed out in Control Center and Settings on my iPhone 12.",
+    "reference_reply": "If Bluetooth remains greyed out after restarting, it may indicate a hardware component fault. DM us to run remote diagnostics.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_008",
+    "customer_message": "Why does iOS 'System Data' take up 95 GB of my 128 GB storage?",
+    "reference_reply": "System Data includes cached logs and Siri voices. Syncing with a computer often clears out stale cache files: https://support.apple.com/HT201656",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "sw_009",
+    "customer_message": "My photos app has been stuck on 'Restoring from iCloud... 1 item remaining' for three weeks.",
+    "reference_reply": "Make sure Low Power Mode is off, connect to Wi-Fi and power overnight. See troubleshooting steps: https://support.apple.com/HT204264",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  },
+  {
+    "id": "sw_010",
+    "customer_message": "Safari crashes every time I try to open a private browsing tab on iOS 16.4.",
+    "reference_reply": "Try clearing Safari cache in Settings > Safari > Clear History and Website Data, then test again: https://support.apple.com/HT201265",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_011",
+    "customer_message": "The latest watchOS update bricked my Series 5 into a red exclamation mark screen.",
+    "reference_reply": "A red exclamation mark on Apple Watch requires mail-in service. DM us your watch details to create a service box request.",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_012",
+    "customer_message": "My phone won't ring for incoming calls, it goes directly to voicemail without lighting up.",
+    "reference_reply": "Check if 'Silence Unknown Callers' or a Focus mode like Do Not Disturb is enabled in Settings: https://support.apple.com/HT207354",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_013",
+    "customer_message": "AirDrop won't discover any nearby devices even when set to 'Everyone for 10 Minutes'.",
+    "reference_reply": "Ensure Personal Hotspot is turned off, as it disables AirDrop. Steps here: https://support.apple.com/HT204144",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_014",
+    "customer_message": "My iPhone screen auto-lock setting is permanently locked at 30 seconds and greyed out.",
+    "reference_reply": "When Low Power Mode is on, Auto-Lock is restricted to 30 seconds to save battery. Turn it off in Settings > Battery: https://support.apple.com/HT204904",
+    "human_groundedness_score": 5,
+    "human_actionability_score": 5,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 5
+  },
+  {
+    "id": "sw_015",
+    "customer_message": "CarPlay keeps crashing and restarting every time Google Maps announces a turn.",
+    "reference_reply": "Try forgetting the car in Settings > General > CarPlay, updating your navigation apps, and reconnecting: https://support.apple.com/HT210892",
+    "human_groundedness_score": 4,
+    "human_actionability_score": 4,
+    "human_tone_score": 5,
+    "human_escalation_appropriateness": 5,
+    "human_overall_rating": 4
+  }
+]
